@@ -1,0 +1,47 @@
+body {
+    background-color: gold;
+    margin-left: 67px;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: -1px 0 black;
+}
+
+img {
+    float: right;
+}
+a:link {
+    color: burlywood;
+    text-decoration: none;
+}
+
+a:visited {
+    color: magenta;
+}
+
+.doodoo {
+    font-size: x-large;
+    font-family: fantasy;
+    padding: 25px;
+    color: springgreen;
+    text-decoration: underline;
+}
+
+p {
+    text-decoration: none;
+    font-size: 15px;
+}
+
+li {
+    text-shadow: -1px 0 gray, 0 1px gray, 1px 0 gray, 0 -1px gray;
+}
+
+h3 {
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+.okokok {
+    margin-right: 400px;
+    border-style: solid;
+    border-width: 30px;
+}
